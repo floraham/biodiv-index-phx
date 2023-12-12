@@ -3,13 +3,13 @@ This Github repository contains a Python (.ipynb) notebook conducting an analysi
 
 
 ## Title: Analysis of Change in Biodiversity Intactness Index from 2017 to 2020 in the Phoenix area
-#### Author: Flora Hamilton | floraham@github.io 
+#### 🤠 Author: Flora Hamilton | floraham@github.io 
 
 
-#### Repo Link: https://github.com/floraham/biodiv-index-phx
+#### 📦 Repo Link: https://github.com/floraham/biodiv-index-phx
 
 
-#### Dataset descriptions:
+#### 🔎 Dataset descriptions:
 
 ##### BII data
 - This dataset is part of the MPC STAC catalog. We access the ‘iobiodiversity’ collection and look for the 2017 and 2020 rasters covering Phoenix subdivision. The following coordinates for a bounding box define our search: [-112.826843, 32.974108, -111.184387, 33.863574]
