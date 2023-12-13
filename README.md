@@ -6,11 +6,10 @@
 This project assesses changes in biodiversity intactness in Phoenix from 2017 to 2020 using the Biodiversity Intactness Index (BII) from the Microsoft Planetary Computer. By comparing BII values between 2017 and 2020, we identified areas of change. Shapefiles from the US Census Bureau defined the study area within Phoenix, Arizona.
 
 ### Analysis highlights:
-1) Upload Phoenix .shp
-2) Upload rasters with BII data for 2017 and 2020 from the MPC
-3) Clip the rasters to Phoenix gemoetry
-4) Calculate % BII change from 2017 to 2020
-5) Visualize the areas changed between 2017 and 2020. 
+1) Upload Phoenix .shp and rasters with BII data for 2017 and 2020 from the MPC
+2) Clip the rasters to Phoenix gemoetry
+3) Calculate % BII change from 2017 to 2020
+4) Visualize the areas changed between 2017 and 2020. 
 
 
 #### 📦 Repo Link: https://github.com/floraham/biodiv-index-phx
