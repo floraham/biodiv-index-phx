@@ -17,3 +17,17 @@ This Github repository contains a Python (.ipynb) notebook conducting an analysi
 ##### Phoenix subdivision shapefile: 
 - The Phoenix subdivision polygon is found in the Census County Subdivision shapefiles for Arizona:
 https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&lay ergroup=County+Subdivisions
+
+```
+biodiv-index-phx
+ │   README.md  
+ │   bii_phoenix.ipynb      
+ │
+ └───data
+      └───tl_2022_04_cousub
+           |  tl_2022_04_cousub.cpg
+           |  tl_2022_04_cousub.dbf
+           |  tl_2022_04_cousub.prj
+           |  tl_2022_04_cousub.shp
+           |  tl_2022_04_cousub.shx
+``` 
