@@ -3,7 +3,7 @@
 #### 🤠 Author: Flora Hamilton | floraham@github.io 
 
 ## Objective: 
-This project aimed to assess changes in biodiversity intactness in Phoenix from 2017 to 2020 using the Biodiversity Intactness Index (BII) from the Microsoft Planetary Computer. By comparing BII values between 2017 and 2020, we identified areas of change. Shapefiles from the US Census Bureau defined the study area within Phoenix, Arizona.
+This project assesses changes in biodiversity intactness in Phoenix from 2017 to 2020 using the Biodiversity Intactness Index (BII) from the Microsoft Planetary Computer. By comparing BII values between 2017 and 2020, we identified areas of change. Shapefiles from the US Census Bureau defined the study area within Phoenix, Arizona.
 
 ### Analysis highlights:
 1) Upload Phoenix .shp
