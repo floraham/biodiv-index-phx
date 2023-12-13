@@ -20,7 +20,7 @@ This Github repository contains a Python (.ipynb) notebook conducting an analysi
 #### 🔎 Dataset descriptions:
 
 ##### BII data
-- This dataset is part of the MPC STAC catalog. We access the ‘iobiodiversity’ collection and look for the 2017 and 2020 rasters covering Phoenix subdivision. The following coordinates for a bounding box define our search: [-112.826843, 32.974108, -111.184387, 33.863574]
+- This dataset is part of the MPC STAC catalog. We access the `io-biodiversity` collection and look for the 2017 and 2020 rasters covering Phoenix subdivision. The following coordinates for a bounding box define our search: [-112.826843, 32.974108, -111.184387, 33.863574]
 
 ##### Phoenix subdivision shapefile: 
 - The Phoenix subdivision polygon is found in the Census County Subdivision shapefiles for Arizona:
